@@ -115,7 +115,7 @@ st.write("🖥️", "**Assistant Data Management Executive | Ipsos, Nigeria**")
 st.write("05/2023 - Present")
 st.write(
 	"""
-	- ▶️ Led the MIS team to create standard report and revamped existing QC report to delivery to stakeholders to better understand precise business information and insights.
+	- ▶️ Led the MIS team to create standard report and revamped existing QC report to deliver to stakeholders to better understand precise business information and insights.
 	- ▶️ Utilized a curated set of cutting-edge software, resulting in a 15% improvement in data interpretation accuracy and informed strategic decisions.
 	- ▶️ Developed and maintained automated reporting systems, achieving a 30% reduction in manual effort and ensuring timely and precise information delivery.
 	"""

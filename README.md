@@ -4,20 +4,12 @@ This Streamlit application displays the digital CV of Adesina Adeyemo, a detail-
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Dependencies](#dependencies)
 - [Credits](#credits)
 
-## Installation
-
-To run this application, make sure you have Python installed. Clone this repository and install the required dependencies using pip:
-
-```bash
-pip install -r requirements.txt
-```
 ## Usage
 Navigate to the project directory and run the Streamlit app:
 

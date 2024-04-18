@@ -40,3 +40,6 @@ streamlit run app.py
 - Streamlit
 - Pillow(PIL)
 - Pathlib
+
+## Credit
+Adesina Adeyemo - Main Contributor
